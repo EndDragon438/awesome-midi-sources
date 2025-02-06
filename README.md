@@ -17,7 +17,7 @@ A curated list of sites with MIDI files on the Web.
 - [The Lakh MIDI dataset](https://colinraffel.com/projects/lmd/) is a collection of 176,581 unique MIDI files, 45,129 of which have been matched and aligned to entries in the Million Song Dataset
 - [The MIDI Archive](http://archive.cs.uu.nl/pub/MIDI/) ([Archive.org](https://web.archive.org/web/20191030221701/http://archive.cs.uu.nl:80/pub/MIDI/)), archive of the [Utrecht University](https://www.uu.nl)
 - [Composers Offering MIDI Files on the Net](http://aitech.ac.jp/~ckelly/SMF.html): Links to Sites Maintained by Professional and Amateur Composers
-- [MIDI Links](http://www.music.mcgill.ca/~cmckay/midi.html), collections of links to web pages which contains MIDI material (midi files but also technical references, notes, ...) by [Cory McKay](http://www.music.mcgill.ca/~cmckay), McGill University
+- [MIDI Links](http://www.music.mcgill.ca/~cmckay/midi.html) ([Archive.org](https://web.archive.org/web/20200204013215/http://www.music.mcgill.ca/~cmckay/midi.html)), collections of links to web pages which contains MIDI material (midi files but also technical references, notes, ...) by [Cory McKay](http://www.music.mcgill.ca/~cmckay), McGill University
 
 ## Pop-rock
 - [MIDIWORLD](http://www.midiworld.com/) Files downloadable by URL appending ``/download/ID``
